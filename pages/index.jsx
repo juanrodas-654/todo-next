@@ -47,7 +47,6 @@ const Home = () => {
   return (
     <div className="w-3/4 mx-auto">
       <div className="pt-12">
-        <h6 className="mb-2 text-xs font-bold uppercase">Learning React</h6>
         <h1 className="text-4xl">Todo App</h1>
       </div>
 
